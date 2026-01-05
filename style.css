@@ -1,0 +1,28 @@
+.git{
+    border: 10px solid powderblue;
+    background-color: beige;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow:4px 3px 3px px gray;
+    background-size: cover;
+    
+}
+#h2{
+    border:5px solid cornsilk;
+    border-radius: 8px;
+    margin:5px;
+    padding: 8px;
+    background-color: darksalmon;
+    box-shadow: 3px lightskyblue;
+    text-decoration: underline;
+}
+#list{
+    border:11px solid gray;
+    background-color: rgb(117, 91, 59);
+    background-repeat: no-repeat;
+    margin:11px;
+    padding:12px;
+    border-radius: 12px;
+    box-shadow: 10px 10px 10px rgb(172, 223, 223);
+    text-decoration-line: underline;
+}
